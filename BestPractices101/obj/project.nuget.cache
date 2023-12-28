@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nxbP5noURURrRK6P7aov1j/7ghX/SZEE+eIx14mbpP0gokvVnbzTorG98sSG6lbWynwSL8CXAUby511AHhE3GA==",
+  "dgSpecHash": "vOsyYspV6EJq7G0TMNf3SfjBADsdVmy1wJoZeqWYkrD5Toe0ZBCBSontWmfCr0esii4ARj8rpGbq5M40s9BuXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\loren\\OneDrive\\Documents\\GitHub\\BestPractices101\\BestPractices101.csproj",
+  "projectFilePath": "C:\\Users\\loren\\OneDrive\\Documents\\GitHub\\template\\TemplateProject\\BestPractices101\\BestPractices101.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\loren\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\loren\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
